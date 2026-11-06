@@ -2,4 +2,4 @@
 
 https://mrc-sala.github.io/pons-poster/
 
-Version 18: 34 seconds of gain adaptation (17 s at gain 1 + 17 s at gain 0.33), recomputed tracking on the retreat larva 260430_f1_wt. One integrated 16-second brain, tail camera, trace and stimulus movie from the PhD defence, preserving presentation timing.
+Version 19: 16 seconds of gain adaptation (8 s at gain 1 + 8 s at gain 0.33), same larva and tracking as v18. Integrated 16-second brain/tail movie, brain vertical on the left and tail camera, grating and trace grouped on the right. Original playback timing unchanged.
