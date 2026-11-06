@@ -1,5 +1,13 @@
-# PONS 2026 supplementary videos
+# Visuomotor adaptation in zebrafish
+
+PONS 2026 · Marco Salamanca · University of Padova
 
 https://mrc-sala.github.io/pons-poster/
 
-Version 19: 16 seconds of gain adaptation (8 s at gain 1 + 8 s at gain 0.33), same larva and tracking as v18. Integrated 16-second brain/tail movie, brain vertical on the left and tail camera, grating and trace grouped on the right. Original playback timing unchanged.
+## Behavioral virtual reality setup
+
+Head-restrained zebrafish larvae swim in a closed-loop virtual environment. Tail motion controls the velocity of the visual stimulus. Pre-adaptation (gain 1) and early adaptation (gain 0.33) are shown for 8 seconds each.
+
+## Custom-built two-photon imaging coupled with virtual reality
+
+Two-photon calcium imaging in head-restrained zebrafish larvae during closed-loop visual stimulation. Brain-wide calcium activity, tail motion and visual feedback.
